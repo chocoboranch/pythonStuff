@@ -1,0 +1,35 @@
+Nano Prime Instruction Manual
+
+Charging:
+
+To charge your Nano Prime battery, simple attach it to the included 510 charger and 
+insert the charger into a compatible USB port. The Nano Prime’s indicator light will 
+shine red to indicate it is accepting a charge. This light will turn green before 
+shutting off completely to show that it is fully charged. This will take approximately 
+3-4 hours.
+
+Using the Nano Prime:
+
+To turn the Nano Prime Battery On/Off, simply press the power button (5) times in rapid 
+succession.
+
+To heat your cartridge, press and hold the power button during inhale. The Nano Prime 
+is also equipped with puff-triggered heating. This feature is only compatible with 
+cartridges capable of bottom airflow. To use this feature simply inhale while the 
+cartridge is attached to your Nano Prime battery.
+
+Pre-Heat / Automatic Function:
+
+To active the Nano Prime’s Pre-heat function, press the power button (2) times in rapid
+succession. Once activated, the power button will begin to shine, showing that it is 
+heating. The color of the power button will shift through a variety of different colors 
+before shutting off automatically after (15) seconds. The pre-heat function can be 
+stopped at any time by pressing the power button again. To activate the pre-heat 
+function again, simply repeat this process.
+
+Variable Voltage Settings:
+
+The Nano Prime is equipped with 3 pre-set variable voltage settings. These are indicated
+by the color of the power button when heating: Red – 3.2V, Green - 3.7V, and Blue – 4.2V.
+To change the variable voltage settings of the Prime Battery, simply press the power 
+button (3) times in rapid succession.
