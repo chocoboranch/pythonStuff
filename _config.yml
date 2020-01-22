@@ -1,11 +1,1 @@
-theme: jekyll-theme-time-machine
-lsi: false
-safe: true
-source: chocoboranch/pythonStuff
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+theme: jekyll-theme-minima
