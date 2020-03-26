@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> My First Web Page </title>
+    <meta name="description" content="Page Description Here"/>
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <style type="text/css">
+        Body {
+            color: red;
+        }
+
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+    </style> 
+
+    <script>
+        function myFunction() {
+            var x = document.getElementById("fname");
+            x.value = x.value.toUpperCase();
+        }
+    </script>
+</head>
+<body>
+<h1>This is a Sample HTML Document.</h1>
+This Javascript function will capitalize my name:
+<p>Enter your name: <input type="text" id="fname" onchange="myFunction()"></p>
+
+<p>This is Line 1. <br> This is Line 2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is Line3.</p>
+
+<h1> Header 1 </h1>
+<h2> Header 2 </h2>
+<h3> Header 3 </h3>
+<h4> <font face="arial" size="22" color="blue">Header 4</font> </h4>
+
+
+<p> <strong>Bold Text</strong><br>
+    <em>Italic Text</em><br>
+    <u>Underlined Text</u><br>
+    <strike>Strikethrough</strike><br>
+<strong><em><u>Bold, Italic, and Underlined Text</strong></em></u>
+</p>
+
+<h3>My Favorite Sports</h3>
+
+<ul>
+    <li>Basketball</li>
+    <li>Football</li>
+    <li>Hockey</li>
+    <li>Baseball</li>
+</ul>
+
+<h3>My Favorite Vacations</h3>
+
+<ol>
+    <li>Miami, FL</li>
+    <li>New York, NY</li>
+    <li>Las Vegas, NV</li>
+    <li>Houston, TX</li>
+</ol>
+
+<h3>Presidents</h3>
+
+<table>
+    <tr> <!--table row-->
+        <th>First Name</th> <!--table header-->
+        <th>Last Name</th>
+        <th>Years in Office</th> 
+    </tr>
+    <tr>
+        <td>George</td> <!--table data-->
+        <td>Washington</td>
+        <td>1797-1801</td>
+    </tr>
+    <tr>
+        <td>Barrack</td>
+        <td>Obama</td>
+        <td>2008-2016</td>
+    </tr>
+</table>
+<p></p>
+    <form>
+        <input type="text" placeholder="Full Name" name="name">
+        <button>Submit!</button>
+    </form>
+
+    
+
+
+</body>
+</html>
